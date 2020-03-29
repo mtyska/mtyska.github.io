@@ -382,15 +382,18 @@
     }
   },
   "loadingPage": {
-    "backgroundColor": "#508dca",
+    "backgroundColor": "#fffdfd",
     "backgroundImage": {
-      "visible": false
+      "visible": true,
+      "uri": "configs/loading/images/background.png",
+      "width": 1568,
+      "height": 401
     },
     "loadingGif": {
       "visible": true,
-      "uri": "configs/loading/images/predefined_loading_1.gif",
-      "width": 58,
-      "height": 29
+      "uri": "configs/loading/images/loading.gif",
+      "width": 256,
+      "height": 256
     }
   },
   "wabVersion": "2.15",
